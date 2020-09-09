@@ -1,5 +1,5 @@
-Getting and Cleaning Data - Course Project
-==========================================
+Getting and Cleaning Data - Course Project Week 4
+==============================================
 
 # Modifications
 
@@ -102,3 +102,11 @@ As mentioned above,the variables remaining are just the calculatd means and stan
 * fBodyBodyGyroJerkMagMean
 * fBodyBodyGyroJerkMagStd
 * fBodyBodyGyroJerkMagMeanFreq
+
+## Activity labels:
+* Walking
+* Walking upstairs
+* Walking downstairs
+* Sitting
+* Standing
+
