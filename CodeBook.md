@@ -9,8 +9,7 @@ Getting and Cleaning Data - Course Project Week 4
 * Extracting only the measurements on the mean and standard deviation for each measurement.
 * Useing descriptive activity names to name the activities in the data set
 * Appropriately labeling the data set with descriptive variable names.
-* Creating a second, independent tidy data set with the average of each variable for each activity and each subject.
-
+* Creating a second, independent tidy data-set with the average of each variable for each activity and each subject.
 
 # Descriptions
 
@@ -20,8 +19,7 @@ The first two columns - Subject and Activity - are Identifiers.
 * Activity: the Name of the Activity performed by the subject when measurements were taken
 
 ## Measurements
-As mentioned above,the variables remaining are just the calculatd means and standard deviations of these sets of data:
-(Even if I do not give a detailed description of what each data value means, you can see what it means by comparing it with the original data column.)
+The other Variables are just the calculatd means and standard deviations of these sets of data:
 
 * tBodyAccMeanX
 * tBodyAccMeanY
