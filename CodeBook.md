@@ -3,8 +3,6 @@ Getting and Cleaning Data - Course Project Week 4
 
 # Modifications
 
-## the original data was modifies by
-
 * Merging the training and the test sets to create one data set.
 * Extracting only the measurements on the mean and standard deviation for each measurement.
 * Useing descriptive activity names to name the activities in the data set
